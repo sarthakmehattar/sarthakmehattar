@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋I am @sarthakmehattar
+🌱 I’m currently learning computer engineering
+ 📫 How to reach me: sarthakmehattar@gmail.com
 <!--
 **sarthakmehattar/sarthakmehattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: sarthakmehattar@gmail.com
-- 😄 Pronouns: his/he
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
